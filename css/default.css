@@ -28,11 +28,11 @@ a {
   height: 680px;
   margin-top: 10px;
 }
-
-#te6: 668 x
+@media only screen and (max-width: 768px) {
     body {
         /* Hoặc thay 'body' bằng class chứa ảnh của bạn */
         background-attachment: scroll !important;
         background-size: cover;
     }
 }
+
