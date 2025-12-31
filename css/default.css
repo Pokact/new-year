@@ -89,7 +89,7 @@ a {
 .space {
   margin-right: 150px;
 }
-@media only screen and (max-width: 568px) {
+@media only screen and (max-width: 768px) {
     body {
         /* Hoặc thay 'body' bằng class chứa ảnh của bạn */
         background-attachment: scroll !important;
